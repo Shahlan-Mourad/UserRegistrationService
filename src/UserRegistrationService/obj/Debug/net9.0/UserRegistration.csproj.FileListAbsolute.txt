@@ -1,0 +1,11 @@
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/bin/Debug/net9.0/UserRegistration.deps.json
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/bin/Debug/net9.0/UserRegistration.dll
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/bin/Debug/net9.0/UserRegistration.pdb
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.AssemblyInfoInputs.cache
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.AssemblyInfo.cs
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.csproj.CoreCompileInputs.cache
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.dll
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/refint/UserRegistration.dll
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/UserRegistration.pdb
+/Users/shahlanmourad/Documents/Testning/TaskOne/src/UserRegistrationService/obj/Debug/net9.0/ref/UserRegistration.dll
